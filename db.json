@@ -1,0 +1,159 @@
+{
+  "notes": [
+    {
+      "title": "Personal",
+      "body": "Personal things??! so you can archive this ",
+      "date": "01/05/2024",
+      "time": "11:11 AM",
+      "day": "Friday",
+      "color": "#ecfccb",
+      "archive": true,
+      "id": 8
+    },
+    {
+      "title": "What the hell",
+      "body": "\nwhy is this entering to 2 new line",
+      "date": "01/04/2024",
+      "time": "11:22 PM",
+      "day": "Thursday",
+      "color": "#ffedd5",
+      "archive": true,
+      "id": 9
+    },
+    {
+      "title": "New test note ",
+      "body": "New test not content ",
+      "date": "01/04/2024",
+      "time": "1:25 PM",
+      "day": "Thursday",
+      "color": "#e0f2fe",
+      "archived": false,
+      "id": 1,
+      "archive": true
+    },
+    {
+      "title": "Can't be Empty",
+      "body": "No you can't",
+      "date": "01/04/2024",
+      "time": "11:22 PM",
+      "day": "Thursday",
+      "color": "#fae8ff",
+      "archive": true,
+      "id": 10
+    },
+    {
+      "title": "Time and Date",
+      "body": "The Time and date is not working ",
+      "date": "01/05/2024",
+      "time": "12:14 AM",
+      "day": "Friday",
+      "color": "#e0f2fe",
+      "archive": true,
+      "id": 12
+    },
+    {
+      "title": "*Instructions",
+      "body": "NB: Do note delete this note!!\n\n1. Add, delete and edit short notes here with a selected background colour card.\n\n2. You can also add, delete and edit folders to keep things organized.\n\n3. You can explore the `Archive, Trash` with full functionality \n\n",
+      "date": "01/05/2024",
+      "time": "11:08 AM",
+      "day": "Friday",
+      "color": "hsl(34, 100%, 92%)",
+      "archive": false,
+      "id": 13
+    },
+    {
+      "title": "*Instruction",
+      "body": "NB: Do note delete this note!!\n\n1. You can add notes to folders using drag-and-drop\n\n2. Sticky horizontally scrollable folder bar section.\n\n3. You can filter the notes and folders in the given option.",
+      "date": "01/05/2024",
+      "time": "11:08 AM",
+      "day": "Friday",
+      "color": "hsl(80, 89%, 89%)",
+      "archive": false,
+      "id": 14
+    }
+  ],
+  "folders": [
+    {
+      "title": "Instructions",
+      "color": "hsl(204, 94%, 94%)",
+      "date": "01/05/2024",
+      "notes": [
+        {
+          "title": "*Instruction",
+          "body": "1. You can add notes to folders using drag-and-drop\n\n2. Sticky horizontally scrollable folder bar section.\n\n3. You can filter the notes in the given option.",
+          "date": "01/05/2024",
+          "time": "2:37 AM",
+          "day": "Friday",
+          "color": "hsl(80, 89%, 89%)",
+          "archive": false,
+          "id": 14
+        },
+        {
+          "title": "*Instructions",
+          "body": "1. Add, delete and edit short notes here with a selected background colour card.\n\n2. You can also add, delete and edit folders to keep things organized.\n\n3. You can explore the `Archive, Trash` with full functionality \n\n",
+          "date": "01/05/2024",
+          "time": "2:01 AM",
+          "day": "Friday",
+          "color": "hsl(34, 100%, 92%)",
+          "archive": false,
+          "id": 13
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "trash": [],
+  "archive": [
+    {
+      "title": "Personal",
+      "body": "Personal things??! so you can archive this ",
+      "date": "01/05/2024",
+      "time": "11:11 AM",
+      "day": "Friday",
+      "color": "#ecfccb",
+      "archive": true,
+      "id": 8
+    },
+    {
+      "title": "Time and Date",
+      "body": "The Time and date is not working ",
+      "date": "01/05/2024",
+      "time": "12:14 AM",
+      "day": "Friday",
+      "color": "#e0f2fe",
+      "archive": true,
+      "id": 12
+    },
+    {
+      "title": "What the hell",
+      "body": "\nwhy is this entering to 2 new line",
+      "date": "01/04/2024",
+      "time": "11:22 PM",
+      "day": "Thursday",
+      "color": "#ffedd5",
+      "archive": true,
+      "id": 9
+    },
+    {
+      "title": "New test note ",
+      "body": "New test not content ",
+      "date": "01/04/2024",
+      "time": "1:25 PM",
+      "day": "Thursday",
+      "color": "#e0f2fe",
+      "archived": false,
+      "id": 1,
+      "archive": true
+    },
+    {
+      "title": "Can't be Empty",
+      "body": "No you can't",
+      "date": "01/04/2024",
+      "time": "11:22 PM",
+      "day": "Thursday",
+      "color": "#fae8ff",
+      "archive": true,
+      "id": 10
+    }
+  ]
+}
